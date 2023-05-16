@@ -1,1 +1,1 @@
-# Django bases CRM application
+# Django based CRM application
