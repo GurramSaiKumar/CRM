@@ -1,0 +1,1 @@
+# Django bases CRM application
